@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+* {
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: #FFFA87;
+    text-shadow: 2px 2px 2px #000000;
+    font-family: 'Playfair Display', sans-serif;
+}
+
+h2 {
+    font-family: 'Playfair Display' sans-serif;
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Dosis', sans-serif;
+    color: 666666;
+    text-align: center;
+}
+
+h5 {
+    color: #FFFFFF;
+    text-align: right;
+}
+
+p {
+    font-family: 'Overpass', sans-serif;
+}
+
+footer {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+.quemsoueufoto {
+    width: 100%;
+    box-shadow: 5px 5px 5px #737373;
+}
+
+.bgcinza {
+    background-color: #EFEFEF;
+}
+
+.iconefooter {
+    background-color: #FFFFFF;
+    border-radius: 50%;
+}
+
+.wid100 {
+    width: 100%;
+}
